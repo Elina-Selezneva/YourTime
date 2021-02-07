@@ -1,0 +1,62 @@
+
+.text_wight {
+    color: #fff;
+}
+
+.text-main-page {
+    width: 80%;
+}
+.title_page1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+.color-green {
+    color: #3BB76B;
+}
+
+.hr-green {
+    height: 4px;
+    width: 25%;
+    background: #3BB76B;
+}
+
+.bg-color {
+    background-color: #E5E5E5;
+}
+
+.little-card {
+    height: 50px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.color_black {
+    color: #000;
+}
+.card-long_bg {
+    background: url(img/card-long_img.png) no-repeat;
+    background-size: cover;
+    height: 280px;
+}
+
+.accordion_color {
+    background: #ffffff;
+}
+
+.button_last_wight {
+    width: 120px;
+}
+
+@media screen and (max-width: 991px){
+    
+    .text-main-page {
+    width: 100%;
+    }
+    .title_page1 {
+    font-size: 30px;
+    font-weight: 700;
+    }
+}
+
